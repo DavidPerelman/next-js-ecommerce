@@ -4,7 +4,9 @@ import {
   CardDescription,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card";
+} from "@/src/components/ui/card";
+
+function getSalesData() {}
 
 export default function AdminDashboard() {
   return (
